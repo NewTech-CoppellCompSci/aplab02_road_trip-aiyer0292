@@ -45,9 +45,9 @@ public class RoadTripLog {
 	@Override
 	public String toString() {
 		return "Trip: " + name
-				+ "\n   Distance: " + distance
-				+ "\n   Fuel: " + fuel
-				+ "\n   MPG: " + getMPG();
+			+ "\n   Distance: " + distance
+			+ "\n   Fuel: " + fuel
+			+ "\n   MPG: " + getMPG();
 	}
 		
 
